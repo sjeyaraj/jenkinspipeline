@@ -1,1 +1,1 @@
-Hello, World! Version 10
+Hello, World! Deployed by pipeline
